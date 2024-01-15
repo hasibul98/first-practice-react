@@ -1,0 +1,34 @@
+h1{
+  color: red;
+}
+.DataTrans{
+  display: flex;
+  flex-direction: row;
+  font-size: 25px;
+  margin: 25px;
+}
+.toData{
+  margin: 20px;
+}
+.dataDesign{
+  display: flex;
+  flex-direction: row;
+  margin: 100px;
+}
+.innerData{
+  margin: 10px;
+  width: 220px;
+}
+.imgData{
+  width: 140px;
+}
+.linkData a{
+  text-decoration: none;
+  color: green;
+}
+.linkData a:active{
+  color: green;
+}
+.linkData a:visited{
+  color: green;
+}

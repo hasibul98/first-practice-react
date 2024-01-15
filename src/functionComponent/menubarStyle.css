@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    font-size: 20px;
+    display: flex;
+}
+ul a{
+    text-decoration: none;
+    margin: 20px;
+}
+ul a:hover{
+    color: green;
+    font-size: 30px;
+}
+ul a:active{
+    color: palevioletred;
+    
+}
